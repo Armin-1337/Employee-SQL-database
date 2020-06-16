@@ -20,7 +20,7 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 1. SQL
 2. Python - SQLAlchemy, Pandas, Matplotlib
 
-## **Screenshots:**
+## **Analysis and Screenshots:**
 
 #### Data Modeling
 
@@ -28,13 +28,10 @@ An ERD is sketched based on CSVs tables.
 
 ![ERD_image](ERD_image.png)
 
-#### Data Engineering
-
-Based on ERD, create a table schema for each of the six CSV files. Specify data types, primary keys, foreign keys, and other constraints.
 
 #### Data Analysis
 
-Once the database is completed, jupyter notebook is used to grab the SQL database and then plotted with matplotlib to produce the following graphs:
+Jupyter notebook is used to grab the SQL database and then plot it with matplotlib to produce the following graphs:
 
 Average Salary by Title
 
